@@ -20,6 +20,8 @@ python compiler_cli.py path/to/file
 
 # Simple example
 
+you can also skip using compiler_cli.py if you want and write a script like this:
+
 ```py
 from scanner import Scanner, UnknownTokenError
 
