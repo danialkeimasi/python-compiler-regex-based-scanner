@@ -1,6 +1,6 @@
 # Python Regex Based Scanner
 
-an "zero dependency" implementation of a lexical analyzer that tokenize a program using only official "re" package.
+a "zero dependency" implementation of a lexical analyzer that tokenize a program using only official "re" package.
 
 # Requirements
 
