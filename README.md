@@ -1,4 +1,4 @@
-# python-regex-based-scanner
+# Python Regex Based Scanner
 an implemention of a lexical analyzer that tokenize a program using some regex rules
 
 # requirements
