@@ -25,7 +25,7 @@ def compile(file_address):
         ('EQUAL_OP',       r'=='),
         ('ASSIGNMENT_OP',  r'='),
         ('SEMICOLON',      r';'),
-        ('IDENTIFIER',     r'[a-zA-Z_]\w+'),
+        ('IDENTIFIER',     r'[a-zA-Z_]\w*'),
     ]
 
     scanner = Scanner(rules, open(file_address, 'r').read())
