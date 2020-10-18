@@ -30,7 +30,7 @@ def compile(file_address):
 
     scanner = Scanner(rules, open(file_address, 'r').read())
     try:
-        for token in scanner.tokens_generator():
+        for token in scanner.token_generator():
             print(token)
     except UnknownTokenError as error:
         print(error)
