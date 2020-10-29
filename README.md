@@ -1,6 +1,6 @@
 # Python Regex Based Scanner
 
-a "zero dependency" implementation of a lexical analyzer that tokenize a program using only official "re" package.
+[this repo](https://github.com/danialkeimasi/python-regex-based-scanner) contains implementation of a "zero dependency" implementation of a lexical analyzer that tokenize a program using only official "re" package.
 
 # Requirements
 
